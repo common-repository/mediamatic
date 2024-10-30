@@ -1,0 +1,143 @@
+/* RTL MODE */
+
+body.rtl.mediamatic_ready #wpcontent{
+	padding-right: 0;
+}
+body.rtl .cc_mediamatic_header .header_bottom ul li{
+	float: right;
+}
+body.rtl .cc_mediamatic_header .header_top h3{
+	float: right;
+	margin-right: 0;
+	margin-left: 10px;
+}
+body.rtl .cc_mediamatic_header .header_top a{
+	float: right;
+	margin-right: 0;
+	margin-left: 10px;
+}
+body.rtl .mediamatic_be_loader_wrap{
+	float: right;
+}
+body.rtl .mediamatic_be_loader{
+	transform: rotate(180deg) scale(0.4) translateX(-100%);
+}
+body.rtl ul.cc_mediamatic_category_list .cat_item a{
+	padding: 0 44px 0 30px;
+}
+body.rtl ul.cc_mediamatic_category_list li .cc_icon{
+	left: auto;
+	right: 21px;
+}
+body.rtl ul.cc_mediamatic_category_list .cc_title{
+	float: right;
+}
+body.rtl ul.cc_mediamatic_category_list .cc_count{
+	float: left;
+}
+body.rtl ul.cc_mediamatic_category_list .cc_drag{
+	right: auto;
+	left: 0;
+}
+body.rtl ul.cc_mediamatic_category_list .cc_drag span{
+	right: 2px;
+	left: auto;
+}
+body.rtl ul.cc_mediamatic_category_list li.active .cat_item .cc_drag span,
+body.rtl ul.cc_mediamatic_category_list li .cat_item:hover .cc_drag span{
+	right: 8px;
+	left: auto;
+}
+body.rtl .mediamatic_splitter{
+	margin-right: -8px;
+	margin-left: 7px;
+}
+
+body.rtl .category_item_depth_0{margin-right:0 !important;margin-left: auto !important;}
+body.rtl .category_item_depth_1{margin-right:18px !important;margin-left: auto !important;}
+body.rtl .category_item_depth_2{margin-right:36px !important;margin-left: auto !important;}
+body.rtl .category_item_depth_3{margin-right:54px !important;margin-left: auto !important;}
+body.rtl .category_item_depth_4{margin-right:72px !important;margin-left: auto !important;}
+body.rtl .category_item_depth_5{margin-right:90px !important;margin-left: auto !important;}
+body.rtl .category_item_depth_6{margin-right:108px !important;margin-left: auto !important;}
+body.rtl .category_item_depth_7{margin-right:126px !important;margin-left: auto !important;}
+body.rtl .category_item_depth_8{margin-right:144px !important;margin-left: auto !important;}
+body.rtl .category_item_depth_9{margin-right:162px !important;margin-left: auto !important;}
+body.rtl .category_item_depth_10{margin-right:180px !important;margin-left: auto !important;}
+body.rtl .category_item_depth_11{margin-right:198px !important;margin-left: auto !important;}
+body.rtl .category_item_depth_0 .mediamatic_be_placeholder{margin-right:0 !important;margin-left: auto !important;}
+body.rtl .category_item_depth_1 .mediamatic_be_placeholder{margin-right:-18px !important;margin-left: auto !important;}
+body.rtl .category_item_depth_2 .mediamatic_be_placeholder{margin-right:-36px !important;margin-left: auto !important;}
+body.rtl .category_item_depth_3 .mediamatic_be_placeholder{margin-right:-54px !important;margin-left: auto !important;}
+body.rtl .category_item_depth_4 .mediamatic_be_placeholder{margin-right:-72px !important;margin-left: auto !important;}
+body.rtl .category_item_depth_5 .mediamatic_be_placeholder{margin-right:-90px !important;margin-left: auto !important;}
+body.rtl .category_item_depth_6 .mediamatic_be_placeholder{margin-right:-108px !important;margin-left: auto !important;}
+body.rtl .category_item_depth_7 .mediamatic_be_placeholder{margin-right:-126px !important;margin-left: auto !important;}
+body.rtl .category_item_depth_8 .mediamatic_be_placeholder{margin-right:-144px !important;margin-left: auto !important;}
+body.rtl .category_item_depth_9 .mediamatic_be_placeholder{margin-right:-162px !important;margin-left: auto !important;}
+body.rtl .category_item_depth_10 .mediamatic_be_placeholder{margin-right:-180px !important;margin-left: auto !important;}
+body.rtl .category_item_depth_11 .mediamatic_be_placeholder{margin-right:-198px !important;margin-left: auto !important;}
+
+
+body.rtl ul.cc_mediamatic_category_list .cc_dropdown{
+	left: auto;
+	right: 0px;
+}
+body.rtl.mediamatic-admin-panel iao-alert{
+	padding: 20px 55px 20px 40px;
+}
+body.rtl iao-alert-close{
+	right: auto;
+	left: 12px;
+}
+body.rtl.mediamatic-admin-panel .icon_holder{
+	left: auto;
+	right: 20px;
+}
+body.rtl iao-alert:before{
+	right: auto;
+	left: 14px;
+}
+body.rtl iao-alert:after{
+	right: auto;
+	left: 21px;
+}
+body.rtl ul.cc_mediamatic_category_list .cc_changer input{
+	padding: 0 28px 0 20px;
+}
+body.rtl ul.cc_mediamatic_category_list .cc_changer div{
+	left: 66px;
+	right: 16px;
+}
+body.rtl ul.cc_mediamatic_category_list .cc_btns{
+	right: auto;
+	left: 9px;
+}
+body.rtl ul.cc_mediamatic_category_list .cc_changer .mediamatic_be_svg{
+	left: auto;
+	right: 5px;
+}
+body.rtl ul.cc_mediamatic_category_list .cc_btns .cc_apply{
+	left: auto;
+	right: 0;
+}
+body.rtl ul.cc_mediamatic_category_list .cc_btns .cc_cancel{
+	right: auto;
+	left: 0;
+}
+body.rtl .cc_mediamatic_popup ul li span.cc_text{
+	padding-right: 0;
+	padding-left: 24px;
+}
+body.rtl .cc_mediamatic_popup ul li > span.cc_add .cc_text span{
+	right: auto;
+	left: 0;
+}
+body.rtl ul.cc_mediamatic_category_list .cc_dropdown:after{
+	border-left-color: transparent;
+    border-right-color: rgba(255,255,255,.5);
+	margin: -4px 0 0 -6px;
+}
+body.rtl ul.cc_mediamatic_category_list .cc_dropdown.open:after{
+	transform: rotate(-90deg);
+}
